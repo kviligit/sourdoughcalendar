@@ -18,6 +18,7 @@ Language: Python
  * Have two seperate options for proofing time: 
    * 12 Hour fridge proofing
    * 3-4 Hour warmish proofing
+ * Be aware of bed-time
  * Give feedback on timing
    * Will process be done in time for either:
      * 3-4 Hour warm proofing before bed
