@@ -18,11 +18,11 @@ Language: Python
  * Have two seperate options for proofing time: 
    * 12 Hour fridge proofing
    * 3-4 Hour warmish proofing
- * Be aware of bed-time
+ * Be aware of bedtime
  * Give feedback on timing
    * Will process be done in time for either:
-     * 3-4 Hour warm proofing before bed
-     * 12 Hour cold proofing before bed
+     * 3-4 Hour warm proofing and baking before bedtime
+     * 12 Hour cold proofing and baking before bedtime
      * 12 Hour cold proofing during sleep
  ### Extended version: 
  * Create calendar events for each seperate step 
