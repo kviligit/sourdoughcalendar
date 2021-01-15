@@ -3,6 +3,10 @@
 Baking sour dough bread is a rather large time consume and requires quite a lot of planning and the timing must be on point. 
 Therefore I have decided to create a program that when run, spits out a calendar file with several calendar events that represent all the different steps of the process. I would also like to be able to set restrictions like bedtime, so the program will tell me if starting the baking project is a bad idea. 
 
+## Info: 
+Language: Python
+
+
 ## The program needs to
 ### Base version:
 * Find current time
