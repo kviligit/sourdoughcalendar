@@ -12,8 +12,8 @@ Language: Python
 * Find current time
 * Contain seperate elements for each part of the process.
    * Name of step
-   * Time consumed
-   * Time before next step
+   * Time task consumes
+   * Time waiting before next step
  * Calculate what time it is at end of each step
  * Have two seperate options for proofing time: 
    * 12 Hour fridge proofing
